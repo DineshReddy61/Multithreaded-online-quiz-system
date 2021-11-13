@@ -1,1 +1,1 @@
-# Multithreaded-online-quiz-system
+It is the online quiz where two users can take the quiz and select the answers to the given questions.After completing the quiz,the score will be displayed and tells,which user has won the quiz and it displays how much time the user has taken to complete the quiz.Here first we have to run the server,and then the two clients which mean symbolically two users and the quiz questions will be in Ui format.
